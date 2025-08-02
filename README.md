@@ -33,6 +33,8 @@ Commute Distance vs. Purchase Behavior
 
 Interactive Slicers
 - Includes slicers for variables such as region, marital status, and education to allow for deeper, user-driven exploration.
+---
+<img width="736" height="464" alt="Screenshot 2025-08-01 at 11 15 22 PM" src="https://github.com/user-attachments/assets/9287f6b7-4213-4112-927b-cac50735a7c6" />
 
 ### Key Findings
 
