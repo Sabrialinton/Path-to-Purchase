@@ -1,4 +1,4 @@
-## Path-to-Purchase
+## Path to Purchase
 
 ### Project Overview
 
